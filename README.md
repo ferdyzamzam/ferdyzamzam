@@ -2,7 +2,7 @@
 
 <p>
 Hello Everyone!
-My name is Sai Ferdy Zam Zam and people usually called Ferdy, I am a Frontend Developer using Javascript frontend framework vue js 3 and tailwindcss
+My name is Sai Ferdy Zam Zam, and people usually call me Fey or Ferdy. I am a Frontend Developer using JavaScript frontend frameworks such as Vue.js, React.js, Next.js, and Tailwind CSS. I also have some knowledge of backend JavaScript.
 </p>
 
 ## Tech Stack
